@@ -1,0 +1,49 @@
+h1 {
+	color: #d5d9e0;	
+	margin-left: 11.6%;
+	margin-bottom: 0px;
+}
+
+.main {
+	width: 80%;
+	margin: auto; 
+	display: block;
+}
+
+.destiny { 
+	float: left;
+	margin-left: 1.5%;
+	margin-top: 20px;
+/*box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.10);*/
+}
+
+.destiny5, .destiny8 {
+		float: left;
+		clear: left;
+		margin-left: 1.5%;
+		margin-top: 20px;
+}
+
+.rate { 
+	height: 15px; 
+	width: 15px; 
+}
+
+.info {
+	width: 200px; 
+	margin-top: 5px;
+  
+	/*white-space: nowrap;
+	overflow: hidden; 
+	text-overflow: ellipsis;*/	
+	}
+
+.info span {
+	color: #828891;
+}
+
+h4 {
+margin-top: 5px;
+}
+
+.rating { }
